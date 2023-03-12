@@ -1,2 +1,5 @@
 # 1strepo
-My first repository
+
+My first repositor
+
+I :heart: all types of music!
