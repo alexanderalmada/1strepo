@@ -78,3 +78,10 @@ img {
 .header2 {
   float: right;
 }
+.submitform {
+  text-align: center;
+}
+.thankyou {
+  font-size: xx-large;
+  text-align: center;
+}
